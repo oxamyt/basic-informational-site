@@ -1,6 +1,6 @@
 # basic-informational-site
 
-Created using NodeJS.
+Created using Node and Express.
 Presents a 4 pages:
 index.html
 about.html
